@@ -1,0 +1,14 @@
+C:\Users\jnico\source\repos\GestionDeStock\GestionDeStock\obj\Debug\net8.0\GestionDomain.csproj.AssemblyReference.cache
+C:\Users\jnico\source\repos\GestionDeStock\GestionDeStock\obj\Debug\net8.0\GestionDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnico\source\repos\GestionDeStock\GestionDeStock\obj\Debug\net8.0\GestionDomain.AssemblyInfoInputs.cache
+C:\Users\jnico\source\repos\GestionDeStock\GestionDeStock\obj\Debug\net8.0\GestionDomain.AssemblyInfo.cs
+C:\Users\jnico\source\repos\GestionDeStock\GestionDeStock\obj\Debug\net8.0\GestionDomain.csproj.CoreCompileInputs.cache
+C:\Users\jnico\source\repos\GestionDeStock\GestionDeStock\bin\Debug\net8.0\GestionDomain.deps.json
+C:\Users\jnico\source\repos\GestionDeStock\GestionDeStock\bin\Debug\net8.0\GestionDomain.runtimeconfig.json
+C:\Users\jnico\source\repos\GestionDeStock\GestionDeStock\bin\Debug\net8.0\GestionDomain.dll
+C:\Users\jnico\source\repos\GestionDeStock\GestionDeStock\bin\Debug\net8.0\GestionDomain.pdb
+C:\Users\jnico\source\repos\GestionDeStock\GestionDeStock\obj\Debug\net8.0\GestionDomain.dll
+C:\Users\jnico\source\repos\GestionDeStock\GestionDeStock\obj\Debug\net8.0\refint\GestionDomain.dll
+C:\Users\jnico\source\repos\GestionDeStock\GestionDeStock\obj\Debug\net8.0\GestionDomain.pdb
+C:\Users\jnico\source\repos\GestionDeStock\GestionDeStock\obj\Debug\net8.0\GestionDomain.genruntimeconfig.cache
+C:\Users\jnico\source\repos\GestionDeStock\GestionDeStock\obj\Debug\net8.0\ref\GestionDomain.dll
